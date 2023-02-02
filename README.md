@@ -1,7 +1,6 @@
 # Convert_string_into_a_datetime_object
 if you want Convert string date into a datetime.Then Lets do!
 
-
       from datetime import datetime
 
       date_string = "Feb 2 2023  8:20PM"
