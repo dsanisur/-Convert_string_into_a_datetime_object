@@ -1,4 +1,4 @@
-# Convert_string_into_a_datetime_object.
+# Convert_string_into_a_datetime_object
 
 
 If you want Convert string date into a datetime. Then Lets do! 
